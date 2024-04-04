@@ -12,7 +12,7 @@
 <li>💬 Ask me about Python, Data Science & Frontend Development</li>
 <li>👽 Exploring the latest technologies and developing useful web apps</li>
 <li>🌐 Portfolio - https://portfoliowebsite-by-arinbanerjee.netlify.app/ </li>
-<li>🎓 Studied Electronics & Communication Engineering from BPPIMT.</li>
+<li>🎓 Studied Electronics & Communication Engineering</li>
 </ul>
 </td>
 <td>
